@@ -4,4 +4,7 @@ numpy
 mlflow
 scikit-learn
 boto3
+pymongo
+certifi
 
+-e .
